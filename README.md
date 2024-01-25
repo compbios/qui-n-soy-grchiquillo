@@ -1,4 +1,4 @@
-#Mi nombre es Geraldine Rojas
+## Mi nombre es Geraldine Rojas
 
 **Soy Química Farmacéutica, me gusta y trabajo en asuntos regulatorios de la industria farmacéutica. Actualmente estoy cursando una maestría en bioestadística**
 
