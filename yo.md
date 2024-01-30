@@ -8,5 +8,7 @@ Además de estar inmersa en el mundo regulatorio de la industria farmacéutica, 
 * Practicar atletismo de montaña _(trail runnig)_ 🌳⛰️
 * Visitar y conocer nuevos territorios rurales y sus costumbres gastronómicas.
 Mi municipio de procedencia es Tasco (Boyacá) y unos de sus lugares turisticos es la [laguna del oro](https://tascoboyaca.micolombiadigital.gov.co/turismo/laguna-de-oro-municipio-de-tasco-boyaca)
- Me apasiona el campo, su gente, sus tradiciones y su comida.
-![](https://blog.redbus.co/naturaleza/laguna-de-tota-boyaca/)
+
+Me apasiona el campo, su gente, sus tradiciones y su comida.
+![Copito en la finca](https://github.com/compbios/qui-n-soy-grchiquillo/assets/157443792/e5bad5fa-6161-458c-a9a7-73d28478a485)
+
